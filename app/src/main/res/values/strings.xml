@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">DUplugIn</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="margin">8dp</string>
+    <string name="title_collegeUpdates">College Updates</string>
+    <string name="title_universityUpdates">University Updates</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+
+    <string name="homeFeed_key">multiSelect_home_page</string>
+    <string-array name="multiselect_list_titles">
+        <item>Sports</item>
+        <item>Dance</item>
+        <item>Music</item>
+    </string-array>
+
+    <string-array name="multiselect_list_values">
+        <item>
+            Sports
+        </item>
+        <item>
+            Dance
+        </item>
+        <item>
+            Music
+        </item>
+    </string-array>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="home_share_image">home_share_image</string>
+    <string name="home_share_title">home_share_title</string>
+    <string name="dimen_padding_events">8dp</string>
+
+
+</resources>
